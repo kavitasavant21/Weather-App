@@ -1,0 +1,23 @@
+.searchbox {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.searchbox form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+    flex-wrap: wrap;
+}
+
+.searchbox button {
+    padding: 12px 25px;
+    border-radius: 8px;
+    background-color: #1976d2;
+    font-size: 15px;
+}
+
+.searchbox button:hover {
+    background-color: #125a9c;
+}

@@ -1,0 +1,23 @@
+.weatherApp {
+    text-align: center;
+    padding: 40px 15px;
+    min-height: 100vh;
+}
+
+.weatherApp h1 {
+    color: #174a70;
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+
+.subtitle {
+    color: #55758c;
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+
+.footer {
+    margin-top: 40px;
+    color: #55758c;
+    font-size: 14px;
+}
